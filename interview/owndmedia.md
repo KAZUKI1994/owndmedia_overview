@@ -93,8 +93,8 @@ SNSボックスは流行りの大きめのフラットデザイン。デルタ�
 
 ---
 
-image2: [designriver](http://designreviver.com/)
-比較的シンプルなレイアウト。画像と色が交互に並ぶ。wordpressのテンプレートに近い。
+image2: [designriver](http://designreviver.com/)  
+あるいは、比較的シンプルなレイアウト。画像と色が交互に並ぶ。wordpressのテンプレートに近い。
 ![img](https://dl.dropboxusercontent.com/u/79953334/for_interview/img.png)
 
 
@@ -302,6 +302,9 @@ LIGの代行サービスより立ち上げ手順を確認
 
 [実践で学ぶWebサイト制作ガイド：その1](http://www.webcreatorbox.com/tech/website-before-start-ready/)  
 企画する上で考えるポイント
+
+[海外サイトのウェブデザイン](http://www.zzrock.net/archives/category/sort/foreign)
+海外のウェブサイトがよくまとまってる
 
 [minumum.wireframe](https://wireframe.cc/)  
 wireframe作成ツール。ごちゃごちゃ機能付いてないシンプルなやつでわかりやすい
